@@ -1,12 +1,11 @@
-# selenium-webdriver (ES Modules, BabelJS, Jasmine, and Assert)
-
-[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jasmine-assert](https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jasmine-assert/workflows/selenium-webdriver-es-modules-babeljs-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-babeljs-jasmine-assert/actions?workflow=selenium-webdriver-es-modules-babeljs-jasmine-assert)
-
-selenium-webdriver end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Jasmine, and Assert.
-
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert/workflows/selenium-webdriver-es-modules-babel-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert/actions?workflow=selenium-webdriver-es-modules-babel-jasmine-assert)
+    
+# Selenium-WebDriver Boilerplate
+    
+Selenium-WebDriver end-to-end test automation boilerplate, using ES Modules, Babel, Jasmine and Assert.
+    
 ## Getting Started
-
-    git clone git@github.com:e2e-boilerplates/selenium-webdriver-es6-modules-babeljs-jasmine-assert.git
-    cd selenium-webdriver-es6-modules-babeljs-jasmine-assert
-    npm install
-    npm run start
+    	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert.git
+    	2. cd selenium-webdriver-es-modules-babel-jasmine-assert
+    	3. npm install
+    	4. npm run test
