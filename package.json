@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
-=======
-  "author": "Girma Nigusse <xgirma@gmail.com>",
->>>>>>> b07b511494cddd04b4e6651dc7aa5af7f7357480
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert/issues"
   },
